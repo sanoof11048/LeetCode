@@ -1,9 +1,10 @@
-var containsDuplicate = function(nums) {
-    sorted=nums.sort((a,b)=>a-b)
-    for(i=0;i<sorted.length;i++){
-            if(sorted[i]===sorted[i+1]){
-                return true
+function containsDuplicate(nums) {
+    let seen = new Set();
+    for (let num of nums) { 
+        if (seen.has(num)) {
+            return true;
         }
+        seen.add(num);
     }
-    return false
-};
+    return false;
+}
