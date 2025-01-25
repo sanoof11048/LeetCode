@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sanoof11048/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanoof11048/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sanoof11048/LeetCode/tree/master/0217-contains-duplicate) |
+| [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanoof11048/LeetCode/tree/master/0217-contains-duplicate) |
+| [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanoof11048/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sanoof11048/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sanoof11048/LeetCode/tree/master/0069-sqrtx) |
+| [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sanoof11048/LeetCode/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
