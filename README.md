@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sanoof11048/LeetCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanoof11048/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/sanoof11048/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanoof11048/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/sanoof11048/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
