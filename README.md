@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sanoof11048/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/sanoof11048/LeetCode/tree/master/0179-largest-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sanoof11048/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/sanoof11048/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -100,9 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3447-clear-digits](https://github.com/sanoof11048/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/sanoof11048/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/sanoof11048/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
