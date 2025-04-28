@@ -1,6 +1,11 @@
 var plusOne = function(digits) {
-    numStr = digits.join("")
-    inc = BigInt(numStr) + 1n
-    newArr1 = String(inc).split('').map(Number)
-   return newArr1
+    for (let i = digits.length - 1; i >= 0; i--) {
+        if (digits[i] < 9) {
+            digits[i]++;
+            return digits;
+        }
+        digits[i] = 0;
+    }
+    digits.unshift(1);
+    return digits;
 };
