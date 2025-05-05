@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sanoof11048/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sanoof11048/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sanoof11048/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sanoof11048/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/sanoof11048/LeetCode/tree/master/0179-largest-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sanoof11048/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3379-score-of-a-string](https://github.com/sanoof11048/LeetCode/tree/master/3379-score-of-a-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sanoof11048/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sanoof11048/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sanoof11048/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sanoof11048/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanoof11048/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sanoof11048/LeetCode/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanoof11048/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanoof11048/LeetCode/tree/master/0067-add-binary) |
 | [3447-clear-digits](https://github.com/sanoof11048/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Matrix
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanoof11048/LeetCode/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/sanoof11048/LeetCode/tree/master/0476-number-complement) |
 ## Database
 |  |
