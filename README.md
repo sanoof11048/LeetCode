@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/sanoof11048/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/sanoof11048/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2048-build-array-from-permutation](https://github.com/sanoof11048/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanoof11048/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanoof11048/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sanoof11048/LeetCode/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/sanoof11048/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3447-clear-digits](https://github.com/sanoof11048/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Matrix
