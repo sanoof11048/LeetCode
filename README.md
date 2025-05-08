@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sanoof11048/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanoof11048/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sanoof11048/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sanoof11048/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanoof11048/LeetCode/tree/master/0202-happy-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanoof11048/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/sanoof11048/LeetCode/tree/master/1448-maximum-69-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sanoof11048/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanoof11048/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/sanoof11048/LeetCode/tree/master/0175-combine-two-tables) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sanoof11048/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanoof11048/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
