@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/sanoof11048/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/sanoof11048/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/sanoof11048/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2502-sort-the-people](https://github.com/sanoof11048/LeetCode/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanoof11048/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanoof11048/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sanoof11048/LeetCode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/sanoof11048/LeetCode/tree/master/0179-largest-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sanoof11048/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2502-sort-the-people](https://github.com/sanoof11048/LeetCode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/sanoof11048/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/sanoof11048/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sanoof11048/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sanoof11048/LeetCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanoof11048/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2502-sort-the-people](https://github.com/sanoof11048/LeetCode/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/sanoof11048/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sanoof11048/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2502-sort-the-people](https://github.com/sanoof11048/LeetCode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
