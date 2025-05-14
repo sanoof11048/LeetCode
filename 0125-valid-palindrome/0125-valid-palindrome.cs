@@ -7,11 +7,17 @@ public class Solution {
                 newWord.Append(char.ToLower(i));
             }
         }
-        char[] CharArr = newWord.ToString().ToCharArray();
-        Array.Reverse(CharArr);
-        string result = string.Join("", CharArr);
-        bool isTrue =  newWord.ToString() == result? true : false;
-        return isTrue;
+        string filtered = newWord.ToString();
+        int left = 0;
+        int right = filtered.Length - 1;
+        while (left < right) {
+            if (filtered[left] != filtered[right])
+                return false;
+            left++;
+            right--;
+        }
+
+        return true;
 
     }
 }
