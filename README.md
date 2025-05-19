@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sanoof11048/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/sanoof11048/LeetCode/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/sanoof11048/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Linked List
 |  |
 | ------- |
