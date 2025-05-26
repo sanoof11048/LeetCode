@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/sanoof11048/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/sanoof11048/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/sanoof11048/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sanoof11048/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sanoof11048/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/sanoof11048/LeetCode/tree/master/2502-sort-the-people) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanoof11048/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sanoof11048/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/sanoof11048/LeetCode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sanoof11048/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/sanoof11048/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/sanoof11048/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/sanoof11048/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/sanoof11048/LeetCode/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/sanoof11048/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/sanoof11048/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/sanoof11048/LeetCode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
