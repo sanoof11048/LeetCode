@@ -1,5 +1,15 @@
 public class Solution {
     public string DefangIPaddr(string address) {
-        return address.Replace(".", "[.]");
+         StringBuilder result = new StringBuilder();
+
+        foreach (char c in address)
+        {
+            if (c == '.')
+                result.Append("[.]");
+            else
+                result.Append(c);
+        }
+
+        return result.ToString();
     }
 }
