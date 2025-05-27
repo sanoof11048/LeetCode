@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/sanoof11048/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanoof11048/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/sanoof11048/LeetCode/tree/master/2556-convert-the-temperature) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/sanoof11048/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Linked List
 |  |
 | ------- |
