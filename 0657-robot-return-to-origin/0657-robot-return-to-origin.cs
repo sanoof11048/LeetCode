@@ -1,20 +1,16 @@
 public class Solution {
     public bool JudgeCircle(string moves) {
-        int[] axis = {0,0};
-        foreach(char i in moves){
-            if(i=='U'){
-                axis[1]++;
-            }else if(i=='D'){
-                axis[1]--;
-            }else if(i=='L'){
-                axis[0]--;
-            }else if(i=='R'){
-                axis[0]++;
+       int x = 0, y = 0;
+
+        foreach (char move in moves) {
+            switch (move) {
+                case 'U': y++; break;
+                case 'D': y--; break;
+                case 'L': x--; break;
+                case 'R': x++; break;
             }
         }
-        if(axis[0] == 0 && axis[1] == 0){
-            return true;
-        }
-        return false;
+
+        return x == 0 && y == 0;
     }
 }
