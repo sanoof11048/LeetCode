@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sanoof11048/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sanoof11048/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/sanoof11048/LeetCode/tree/master/0412-fizz-buzz) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sanoof11048/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanoof11048/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/sanoof11048/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
