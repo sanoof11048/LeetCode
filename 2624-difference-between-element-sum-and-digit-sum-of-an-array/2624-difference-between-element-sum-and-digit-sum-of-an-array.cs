@@ -1,14 +1,15 @@
 public class Solution {
     public int DifferenceOfSum(int[] nums) {
-         int sum=0;
-        int digitsum=0;
-        foreach(int i in nums){
-            sum+=i;
-            string digits = i.ToString();
-            for(int j=0;j<digits.Length;j++){
-                digitsum += int.Parse(digits[j].ToString());
+        int sum = 0;
+        int digitsum = 0;
+        foreach (int i in nums) {
+            sum += i;
+            int num = i;
+            while (num > 0) {
+                digitsum += num % 10;
+                num /= 10;
             }
         }
-        return sum<digitsum? digitsum- sum : sum- digitsum;
+        return Math.Abs(sum - digitsum);
     }
 }
