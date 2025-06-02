@@ -10,6 +10,6 @@ public class Solution {
                 num /= 10;
             }
         }
-        return Math.Abs(sum - digitsum);
+        return sum<digitsum? digitsum- sum : sum- digitsum;
     }
 }
