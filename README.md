@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanoof11048/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanoof11048/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanoof11048/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2756-buy-two-chocolates](https://github.com/sanoof11048/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3194-find-words-containing-character](https://github.com/sanoof11048/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/sanoof11048/LeetCode/tree/master/3226-minimum-number-game) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanoof11048/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/sanoof11048/LeetCode/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/sanoof11048/LeetCode/tree/master/1448-maximum-69-number) |
+| [2756-buy-two-chocolates](https://github.com/sanoof11048/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/sanoof11048/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sanoof11048/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/sanoof11048/LeetCode/tree/master/2502-sort-the-people) |
+| [2756-buy-two-chocolates](https://github.com/sanoof11048/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3226-minimum-number-game](https://github.com/sanoof11048/LeetCode/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
