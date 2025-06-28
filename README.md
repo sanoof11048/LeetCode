@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanoof11048/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sanoof11048/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanoof11048/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanoof11048/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/sanoof11048/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/sanoof11048/LeetCode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/sanoof11048/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sanoof11048/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sanoof11048/LeetCode/tree/master/0069-sqrtx) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanoof11048/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanoof11048/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sanoof11048/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanoof11048/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sanoof11048/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/sanoof11048/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Stack
