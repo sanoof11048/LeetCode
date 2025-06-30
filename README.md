@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sanoof11048/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanoof11048/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sanoof11048/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sanoof11048/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sanoof11048/LeetCode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/sanoof11048/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/sanoof11048/LeetCode/tree/master/0476-number-complement) |
 ## Database
 |  |
