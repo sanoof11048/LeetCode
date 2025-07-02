@@ -3,15 +3,15 @@ public class Solution {
     List<string> res = new List<string>();
     string prevSorted = null;
 
-    foreach (var word in words)
+    for (int i = 0; i < words.Length; i++)
     {
-        char[] chars = word.ToCharArray();
+        char[] chars = words[i].ToCharArray();
         Array.Sort(chars);
         string sorted = new string(chars);
 
         if (sorted != prevSorted)
         {
-            res.Add(word);
+            res.Add(words[i]);
             prevSorted = sorted;
         }
     }
