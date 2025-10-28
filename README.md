@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sanoof11048/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanoof11048/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sanoof11048/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## String
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/sanoof11048/LeetCode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/sanoof11048/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/sanoof11048/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sanoof11048/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sanoof11048/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/sanoof11048/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
